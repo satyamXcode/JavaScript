@@ -33,6 +33,9 @@ console.log(2 + 2); // 4
 console.log(2*5); // 10
 console.log(2**3); // 2 power 3 => 8
 
+console.log("1" + 2 + 3); // 123
+console.log(1 + 2 + "3"); // 33
+
 console.log(+true); // 1
 console.log(+"");  // 0
 
